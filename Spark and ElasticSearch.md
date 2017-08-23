@@ -123,4 +123,4 @@ Count: null [0,33554438,bamberger_mahr_s_bru-pilsner,1-14d92c024a170001000000000
 
 And, if we go to http://[container IP]:9200/_plugin/head/ ... we can see our result look alike:
 
-![ScreenShot](https://github.com/Satanette/test/blob/master/dodge_this_2.png.png)
+![ScreenShot](https://github.com/Satanette/test/blob/master/dodge_this_2.png)
