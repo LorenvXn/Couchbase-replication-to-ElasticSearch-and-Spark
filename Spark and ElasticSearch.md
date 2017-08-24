@@ -1,5 +1,5 @@
 
-Once everything has been implemented successfully, we can proceed with Spark and ElasticSearch, and test if our replication has been a success.
+Once everything is implemented,, we can proceed with Spark and ElasticSearch, and test if our replication has been a success.
 
 
 1) Start Spark Shell, with ElasticSearch package <i> org.elasticsearch:elasticsearch-spark-20_2.10:5.4.0</i>
