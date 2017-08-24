@@ -42,12 +42,12 @@ val indexy ="beer-sample/couchbaseDocument"
  val link = "172.17.0.2:9200"
 
 
-val reader=sqlContext.read.format("org.elasticsearch.spark.sql")
+val sqlway=sqlContext.read.format("org.elasticsearch.spark.sql")
                           .option("es.net.http.auth.user", "Administrator")
                           .option("es.net.http.auth.pass", "<insert password here>")
                           .option("es.nodes", link)
 
-val df = reader.load(indexy)
+val df = sqlway.load(indexy)
 
 
 ```
