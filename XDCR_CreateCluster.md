@@ -14,3 +14,5 @@ It should be looking like this:
 
 
 ![ScreenShot](https://github.com/Satanette/test/blob/master/final.png)
+
+Now, let's test what we have done so far: https://github.com/Satanette/Couchbase-replication-to-ElasticSearch-and-Spark/blob/master/Spark%20and%20ElasticSearch.md
