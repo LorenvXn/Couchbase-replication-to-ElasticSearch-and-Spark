@@ -74,4 +74,4 @@ to be applied by Elasticsearch to data from a particular Couchbase bucket
  curl -XPUT http://localhost:9200/beer-sample
  ```
 
-Now, time to replicate data from Couchbase to Elasticsearch
+Now, time to replicate data from Couchbase to Elasticsearch: https://github.com/Satanette/Couchbase-replication-to-ElasticSearch-and-Spark/blob/master/XDCR_CreateCluster.md
