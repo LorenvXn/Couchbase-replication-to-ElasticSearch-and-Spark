@@ -3,7 +3,7 @@
 **Second tutorial for Spark-Couchbase tutorials**
 
 Find the first one at: 
-[Spark and Couchbase integration on dockers](https://github.com/Satanette/Spark-Couchbase-Integration-on-Dockers-) <i> (setup environment also included in that link)  </i> 
+[Spark and Couchbase integration on dockers](https://github.com/Satanette/Spark-Couchbase-Integration-on-Dockers-) <i> (setup environment included in that link)  </i> 
 
 
 1) Install plug-in: 
