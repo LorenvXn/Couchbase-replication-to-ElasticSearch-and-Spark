@@ -1,5 +1,5 @@
 1) Make sure you have the environment already set-up. If not, go here:
- https://github.com/Satanette/Spark-Couchbase-Integration-on-Dockers-  
+ [Spark and Couchbase integration on dockers](https://github.com/Satanette/Spark-Couchbase-Integration-on-Dockers-) 
 
 
 2) Prepare environment to transfer data from Couchbase to ElasticSearch <i> (well...most of implementation manually done... I haven't had much time on my hands lately... )</i>
@@ -74,4 +74,4 @@ to be applied by Elasticsearch to data from a particular Couchbase bucket
  curl -XPUT http://localhost:9200/beer-sample
  ```
 
-Now, time to replicate data from Couchbase to Elasticsearch: https://github.com/Satanette/Couchbase-replication-to-ElasticSearch-and-Spark/blob/master/XDCR_CreateCluster.md
+Now, time to replicate data from Couchbase to Elasticsearch: [XDCR Create Cluster](https://github.com/Satanette/Couchbase-replication-to-ElasticSearch-and-Spark/blob/master/XDCR_CreateCluster.md)
